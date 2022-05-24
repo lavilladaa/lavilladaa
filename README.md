@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Laura Villada
-- 👀 I’m interested in a career change so I want to learn all the software developer has to know. 
+- 👋 Hi, I’m Laura Villada 
+- 👀 I’m interested in a career change and I would love to work in software development. 
 - 🌱 I’m currently learning Angular and React
 - 💞️ I’m looking to collaborate on UI projects 
 - 📫 lauravilladaa16@gmail.com
