@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Laura Villada 
 - 👀 I’m interested in a career change and I would love to work in software development. 
 - 🌱 I’m currently improving my skills in React
-- 💞️ I’m looking to collaborate on UI projects 
+- 💞️ I’m looking for my first job in tech.
 - 📫 lavilladaa@unal.edu.co
 
 <!---
