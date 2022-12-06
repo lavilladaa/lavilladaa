@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Laura Villada. I am a woman passionate about programming with a great curiosity for the development of technological products that provide solutions and experiences to people. I love being creative and learning new things. 
-- 🌱 I’m currently working as a software developer in Ruby on Rails at kommit.
+- 🌱 I’m currently working as a software developer in Ruby on Rails and React at kommit.
 - 📫 lavilladaa@unal.edu.co 
 - https://www.linkedin.com/in/laura-villada-atehortua/
 <!---
