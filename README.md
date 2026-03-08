@@ -1,8 +1,17 @@
-- 👋 Hi, I’m Laura Villada. I am a woman passionate about programming with a great curiosity for the development of technological products that provide solutions and experiences to people. I love being creative and learning new things. 
-- 🌱 I’m currently working as a software developer in Ruby on Rails and React at kommit.
-- 📫 lavilladaa@unal.edu.co 
-- https://www.linkedin.com/in/laura-villada-atehortua/
-<!---
-lavilladaa/lavilladaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Laura 👋
+
+Operations engineer by trade, curious builder by heart.
+
+I use this space to tinker with tools, test ideas, and explore whatever's caught my attention lately — mostly around AI workflows, process design, and the occasional random experiment.
+
+---
+
+**By day** → I design systems, build operational frameworks, and bridge the gap between technical teams and business goals.
+
+**By night (here)** → I break things in a controlled environment.
+
+---
+
+📍 Manizales, Colombia  
+🔗 [linkedin.com/in/laura-villadaa](https://www.linkedin.com/in/laura-villadaa/)  
+✉️ lauravilladaa16@gmail.com
